@@ -19,9 +19,6 @@ Pseudo Matrix finding in java.
 ![alt text](https://github.com/MehmetAran/Pseudo-Matrix-finding-in-java./blob/master/screenshots/5.PNG)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-![alt text](https://github.com/MehmetAran/Pseudo-Matrix-finding-in-java./blob/master/screenshots/6.PNG)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 ![alt text](https://github.com/MehmetAran/Pseudo-Matrix-finding-in-java./blob/master/screenshots/7.PNG)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
